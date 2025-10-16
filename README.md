@@ -34,7 +34,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ccasro/1.02-Exceptions-Level1-2.git
+git clone https://github.com/ccasro/1.03-Java-Collections-level1-2.git
 ```
 
 2. Open the project in your IDE (e.g., IntelliJ IDEA)
@@ -43,7 +43,7 @@ git clone https://github.com/ccasro/1.02-Exceptions-Level1-2.git
 ## ▶️ Execution
 
 This repository contains multiple exercises (5). To run a specific exercise, execute the corresponding **'main'** class.
-To run Level1/Exercise 3 you must use Maven so that the resources are properly included in the classpath:
+To run **Level1/Exercise 3** you must use Maven so that the resources are properly included in the classpath:
 
 ```bash
 mvn clean compile
