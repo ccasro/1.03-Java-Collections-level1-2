@@ -9,6 +9,14 @@ public class Restaurant {
         this.score = score;
     }
 
+    public String getName(){
+        return name;
+    }
+
+    public int getScore(){
+        return score;
+    }
+
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
