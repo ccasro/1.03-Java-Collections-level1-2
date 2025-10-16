@@ -49,7 +49,7 @@ To run Level1/Exercise 3 you must use Maven so that the resources are properly i
 mvn clean compile
 ```
 ```bash
-mvn exec.java -Dexec.mainClass=org.ccasro.level1.exercise3.MainL1E3
+mvn exec:java -Dexec.mainClass=org.ccasro.level1.exercise3.MainL1E3
 ```
 
 ## 🌐 Deployment
